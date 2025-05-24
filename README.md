@@ -20,8 +20,6 @@
 ---
 ### 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikkisija14&theme=dark" alt="GitHub Streak Stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikkisija14&layout=compact&theme=dark" alt="Most Used Languages"/>
 </p>
 
