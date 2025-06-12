@@ -5,30 +5,19 @@
 <h1 align="center">👋 Hi, I'm Tarik Kisija</h1>
 <h3 align="center">A passionate C# Developer currently working on my FIT Tracker project!</h3>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=tarikkisija14.Programiranje-3" alt="Programiranje-3 Repo Views" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=tarikkisija14.Programiranje-2" alt="Programiranje-2 Repo Views" />
-</p>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 I'm a second year student at **Fakultet Informacionih Tehnologija (FIT)**
-- 🖥️ I have experience in **.NET, C++, C#**
+- 🖥️ I have experience in **.NET, C++, C#,SQL**
 - 🚀 Currently learning **C#, SQL**
 - 🎯 Working on: **FIT Tracker** - A learning tracker app for FIT students
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
-  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="SQL Server" width="40" height="40"/>
-  </a>
-</p>
+<p align="left"> <a href="https://dotnet.microsoft.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="SQL Server" width="40" height="40"/> </a> <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> </a> </p>
 
 ---
 
