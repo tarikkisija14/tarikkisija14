@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Tarik Kisija</h1>
-<h3 align="center">A passionate C# Developer currently working on my FIT Tracker project!</h3>
+<h3 align="center">A passionate software engineering student currently working on NBA score predictor!</h3>
 
 
 ---
