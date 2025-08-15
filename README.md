@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm a second year student at **Fakultet Informacionih Tehnologija (FIT)**
+- 🎓 I'm a third year student at **Fakultet Informacionih Tehnologija (FIT)**
 - 🖥️ I have experience in **.NET, C++, C#,SQL**
 - 🚀 Currently learning **Python, Angular**
 - 🎯 Working on: NBA score predictor
