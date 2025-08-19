@@ -3,21 +3,44 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Tarik Kisija</h1>
-<h3 align="center">A passionate software engineering student currently working on NBA score predictor!</h3>
+<h3 align="center">A passionate software engineering student currently working on Football Fantasy Matchups!</h3>
 
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 I'm a third year student at **Fakultet Informacionih Tehnologija (FIT)**
-- 🖥️ I have experience in **.NET, C++, C#,SQL**
+- 🖥️ I have experience in **.NET, C++, C#, SQL**
 - 🚀 Currently learning **Python, Angular**
-- 🎯 Working on: NBA score predictor
+- 🎯 Working on: **Football Fantasy Matchups**
+- ✅ Completed projects: **NBA Stats & Predictor, FIT Tracker**
+
+---
+
+### 🚀 Featured Projects
+- 🏀 [NBA Stats & Predictor](https://github.com/tarikkisija14/nba-score-predictor)  
+- 📚 [FIT Tracker](https://github.com/tarikkisija14/fit-tracker)  
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="left"> <a href="https://dotnet.microsoft.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="SQL Server" width="40" height="40"/> </a> <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://dotnet.microsoft.com/"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/> 
+  </a> 
+  <a href="https://learn.microsoft.com/en-us/cpp/"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  </a> 
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="SQL Server" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/sql/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> 
+  </a> 
+</p>
 
 ---
 
