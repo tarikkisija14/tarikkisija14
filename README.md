@@ -12,7 +12,7 @@
 - 🎓 I'm a third year student at **Fakultet Informacionih Tehnologija (FIT)**
 - 🖥️ I have experience in **.NET, C++, C#, SQL**
 - 🚀 Currently learning **Python, Angular**
-- 🎯 Working on: **Football Fantasy Matchups**
+- 🎯 Working on: **Snagged**
 - ✅ Completed projects: **NBA Stats & Predictor, FIT Tracker**
 
 ---
