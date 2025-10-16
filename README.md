@@ -106,13 +106,6 @@ Comprehensive student tracking system for managing courses, grades, and academic
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tarikkisija14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 📫 Let's Connect
 
