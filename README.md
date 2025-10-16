@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Tarik Kisija</h1>
-<h3 align="center">A passionate software engineering student currently working on Football Fantasy Matchups!</h3>
+<h3 align="center">A passionate software engineering student currently working on Snagged!</h3>
 
 
 ---
