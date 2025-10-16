@@ -52,7 +52,7 @@ public class TarikKisija
 ### 🏀 NBA Stats & Predictor
 Advanced NBA statistics analyzer and game outcome predictor using machine learning algorithms.
 
-**Tech Stack:** `.NET` `C#` `SQL` `ML.NET`
+**Tech Stack:** `.NET` `Python` `Angular` `NBA API`
 
 [![View Project](https://img.shields.io/badge/View-Project-0891b2?style=for-the-badge&logo=github)](https://github.com/tarikkisija14/nba-score-predictor)
 
@@ -62,7 +62,7 @@ Advanced NBA statistics analyzer and game outcome predictor using machine learni
 ### 📚 FIT Tracker
 Comprehensive student tracking system for managing courses, grades, and academic progress.
 
-**Tech Stack:** `.NET` `C#` `SQL Server`
+**Tech Stack:** `.NET` `WinForms` `SQLite`
 
 [![View Project](https://img.shields.io/badge/View-Project-0891b2?style=for-the-badge&logo=github)](https://github.com/tarikkisija14/fit-tracker)
 
@@ -85,11 +85,7 @@ Comprehensive student tracking system for managing courses, grades, and academic
 
 ### Databases & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+  <img src="https://img.shields.io/badge/S
 
 ---
 
