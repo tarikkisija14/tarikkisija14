@@ -50,7 +50,7 @@ var project = new Project {
 <tr>
 <td width="50%" valign="top">
 
-**[OwnerTrack](https://github.com/tarikkisija14)** &nbsp; ![Status](https://img.shields.io/badge/active-238636?style=flat-square)
+**[OwnerTracker](https://github.com/tarikkisija14/Owner-Tracker)** &nbsp; ![Status](https://img.shields.io/badge/active-238636?style=flat-square)
 
 Financial compliance desktop system — ownership structures, risk assessments, contract tracking.
 
