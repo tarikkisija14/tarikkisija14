@@ -147,6 +147,6 @@ Modern thrift marketplace — clean architecture, CQRS, Stripe payments.
 
 <div align="center">
 
-*Open to internships and junior backend roles.*
+*Open to internships and junior  roles.*
 
 </div>
