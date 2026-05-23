@@ -1,177 +1,228 @@
 <div align="center">
-<br/>
 
-<!--- Header --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=435&lines=Software+Engineer+%C2%B7+FIT+Mostar+%C2%B7+Year+3;Clean+Architecture+%C2%B7+DDD+%C2%B7+CQRS;Building+systems+that+last.">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=435&lines=Software+Engineer+%C2%B7+FIT+Mostar+%C2%B7+Year+3;Clean+Architecture+%C2%B7+DDD+%C2%B7+CQRS;Building+systems+that+last." alt="Typing SVG" />
-</picture>
-
-<br/><br/>
-
-# Tarik Kisija
-
-<p>
-Building production-grade <strong>.NET systems</strong> with a focus on clean architecture,<br/>
-domain-driven design, and long-term maintainability.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,100:1D9E75&text=Tarik%20Kisija&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=.NET%20Engineer%20•%20FIT%20Mostar%20•%20Building%20Scalable%20Systems&descAlignY=55&animation=fadeIn"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/github.com%2Ftarikkisija14-0b0b0b?style=flat-square&logo=github&logoColor=e8e6e0)](https://github.com/tarikkisija14)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/@tarikkisija-0b0b0b?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/tarikkisija/)
-&nbsp;
-[![Facebook](https://img.shields.io/badge/tarik.kisija.9-0b0b0b?style=flat-square&logo=facebook&logoColor=1877F2)](https://www.facebook.com/tarik.kisija.9/)
+<a href="https://github.com/tarikkisija14">
+<img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://www.instagram.com/tarikkisija/">
+<img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=2500&pause=1000&color=1D9E75&center=true&vCenter=true&width=700&lines=Clean+Architecture+•+DDD+•+CQRS;Event-Driven+Systems+•+Real-Time+Communication;Building+production-grade+.NET+applications;Always+learning.+Always+building."/>
+
+</div>
+
+---
+
+# About Me
+
+```csharp
+public class Developer
+{
+    public string Name => "Tarik Kisija";
+
+    public string Role => ".NET Software Engineer";
+
+    public string Focus => "Scalable backend systems & clean architecture";
+
+    public string[] Technologies =>
+    [
+        "ASP.NET Core",
+        "Angular",
+        "Flutter",
+        "EF Core",
+        "RabbitMQ",
+        "SignalR",
+        "Docker",
+        "SQL Server",
+        "Python"
+    ];
+}
+```
+
+I'm a third-year Software Engineering student at FIT Mostar focused on building modern backend systems with long-term maintainability in mind.
+
+I enjoy designing scalable architectures, separating concerns properly, and building systems that feel clean both in code and in structure.
+
+Currently focused on:
+- Distributed systems
+- Event-driven architecture
+- Real-time communication
+- AI-assisted applications
+- Scalable .NET backend development
+
+---
+
+# Featured Projects
+
+## 🚀 Progressio
+
+> Social learning & recommendation platform built around progress tracking, real-time communication and scalable backend architecture.
+
+### Tech
+`ASP.NET Core 9` `Flutter` `SignalR` `RabbitMQ` `Stripe` `Docker`
+
+### Highlights
+- JWT + Refresh Token authentication
+- Real-time notifications & messaging
+- Modular architecture
+- RabbitMQ async communication
+- Stripe payment integration
+- Mobile & desktop support
+
+🔗 **Repository**  
+https://github.com/tarikkisija14/Progressio
+
+---
+
+## 📊 NBA Stats & Predictor
+
+> Analytics & prediction platform using machine learning models and automated NBA data pipelines.
+
+### Tech
+`Python` `.NET` `Angular` `SQLite`
+
+### Highlights
+- Automated NBA data ingestion
+- ML prediction models
+- Feature engineering pipeline
+- REST API prediction serving
+- Interactive frontend dashboard
+
+🔗 **Repository**  
+https://github.com/tarikkisija14/nba-score-predictor
+
+---
+
+## 🏢 OwnerTracker
+
+> Financial compliance & ownership tracking desktop application.
+
+### Tech
+`C#` `.NET` `EF Core` `SQLite` `WinForms`
+
+### Highlights
+- Full audit trail
+- Soft delete architecture
+- PDF export
+- Custom schema versioning
+- Ownership structure tracking
+
+🔗 **Repository**  
+https://github.com/tarikkisija14/Owner-Tracker
+
+---
+
+## 🛒 Snagged
+
+> Modern thrift marketplace designed with future microservice migration in mind.
+
+### Tech
+`ASP.NET Core` `Angular` `SQL Server` `Stripe`
+
+### Architecture
+`Clean Architecture` `CQRS` `Modular Monolith`
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,sqlite"/>
+
+## Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=angular,flutter,ts,js"/>
+
+## Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,rabbitmq,git,github"/>
+
+## Other
+
+<img src="https://skillicons.dev/icons?i=python,firebase"/>
+
+</div>
+
+---
+
+# Architecture Mindset
+
+```txt
+✔ Clean Architecture
+✔ Domain-Driven Design
+✔ CQRS
+✔ Event-Driven Communication
+✔ Scalable API Design
+✔ Real-Time Systems
+✔ Maintainable Codebases
+✔ Separation of Concerns
+```
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tarikkisija14&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikkisija14&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Currently Building
+
+```txt
+→ Progressio ecosystem
+→ AI-powered systems
+→ Event-driven backend architectures
+→ Scalable .NET applications
+→ Real-time communication systems
+```
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/tarikkisija14">
+<img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/tarikkisija/">
+<img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<a href="mailto:yourmail@example.com">
+<img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
 </div>
 
 <br/>
 
----
-
-## `01` &nbsp; Architectural principles
-
-> The way I think about software.
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Clean Architecture**
-
-Strict layer separation — domain at the center, infrastructure at the edge. Dependencies always point inward. Business logic never leaks into controllers or data access.
-
-</td>
-<td width="50%" valign="top">
-
-**Domain-Driven Design**
-
-Rich domain models, bounded contexts, and ubiquitous language that reflects real business logic — not database schemas or HTTP contracts.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**CQRS**
-
-Commands and queries separated at every layer. Read and write models optimized independently. No read logic bleeding into command handlers.
-
-</td>
-<td width="50%" valign="top">
-
-**Event-Driven Systems**
-
-RabbitMQ for async messaging, SignalR for real-time. Loosely coupled, resilient communication between modules and services.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## `02` &nbsp; Selected projects
-
-<br/>
-
-**[Progressio](https://github.com/tarikkisija14/Progressio)** &nbsp; ![](https://img.shields.io/badge/active-0a1f16?style=flat-square&color=0a1f16&labelColor=0a1f16&logo=circle&logoColor=1D9E75)&nbsp;![](https://img.shields.io/badge/-1D9E75-1D9E75?style=flat-square&label=&labelColor=0a1f16)
-
-Content progress & recommendation platform with social features, real-time communication, and Stripe payments.
-
-```
-Stack    ASP.NET Core 9 · Flutter (Android & Windows) · SignalR · RabbitMQ · Stripe · Docker
-Pattern  Layered architecture · JWT + Refresh Token auth · Event-driven messaging
-```
-
-<br/>
-
-**[OwnerTracker](https://github.com/tarikkisija14/Owner-Tracker)** &nbsp; ![](https://img.shields.io/badge/active-0a1f16?style=flat-square&color=0a1f16&labelColor=0a1f16)&nbsp;![](https://img.shields.io/badge/-1D9E75-1D9E75?style=flat-square&label=&labelColor=0a1f16)
-
-Financial compliance desktop system — ownership structures, risk assessments, contract tracking.
-
-```
-Stack    C# · .NET · EF Core · SQLite · WinForms
-Pattern  Custom schema versioning · Full audit trail · Soft-delete · PDF export
-```
-
-<br/>
-
-**Snagged** &nbsp; ![](https://img.shields.io/badge/wip-1a1400?style=flat-square)
-
-Modern thrift marketplace — built clean from day one, designed for future microservice split.
-
-```
-Stack    ASP.NET Core · Angular · SQL Server · Stripe
-Pattern  Clean Architecture · CQRS · Modular monolith → microservice-ready
-```
-
-<br/>
-
-**[NBA Stats & Predictor](https://github.com/tarikkisija14/nba-score-predictor)**
-
-End-to-end analytics platform with ML prediction models and live dashboard.
-
-```
-Stack    Python · .NET · Angular · SQLite
-Pattern  Automated ingestion pipeline · Feature engineering · REST API serving predictions
-```
-
-<br/>
-
----
-
-## `03` &nbsp; Stack
-
-<br/>
-
 <div align="center">
 
-**Core**
-
-![C#](https://img.shields.io/badge/C%23-0b0b0b?style=for-the-badge&logo=c-sharp&logoColor=239120)
-![.NET](https://img.shields.io/badge/.NET-0b0b0b?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![EF Core](https://img.shields.io/badge/EF_Core-0b0b0b?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![SQL Server](https://img.shields.io/badge/SQL_Server-0b0b0b?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)
-
-**Frontend & Mobile**
-
-![Angular](https://img.shields.io/badge/Angular-0b0b0b?style=for-the-badge&logo=angular&logoColor=DD0031)
-![Flutter](https://img.shields.io/badge/Flutter-0b0b0b?style=for-the-badge&logo=flutter&logoColor=02569B)
-
-**Infrastructure & Messaging**
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0b0b0b?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
-![SignalR](https://img.shields.io/badge/SignalR-0b0b0b?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![Docker](https://img.shields.io/badge/Docker-0b0b0b?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Stripe](https://img.shields.io/badge/Stripe-0b0b0b?style=for-the-badge&logo=stripe&logoColor=635BFF)
-
-**Tooling**
-
-![Python](https://img.shields.io/badge/Python-0b0b0b?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQLite](https://img.shields.io/badge/SQLite-0b0b0b?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![Git](https://img.shields.io/badge/Git-0b0b0b?style=for-the-badge&logo=git&logoColor=F05032)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<br/>
-
-*Open to internships and junior roles.*
-
-<br/>
-
-![](https://img.shields.io/badge/Bosnia_%26_Herzegovina-0b0b0b?style=flat-square&logoColor=white)
-
-<br/>
+```txt
+Building systems that scale — not just projects that work.
+```
 
 </div>
